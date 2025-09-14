@@ -181,7 +181,7 @@ python script_grasp_2d.py
 - **Visualization:** Clear visual feedback with grasp points and angles
 - **Comprehensive Training:** 300+ epoch training with multiple datasets
 
-## 9. Example Results
+## 9. Results
 
 The project includes several example outputs in the `results images/` directory:
 
@@ -190,11 +190,3 @@ The project includes several example outputs in the `results images/` directory:
 - **Object Instance Segmentation:** Displays the YOLOv8 segmentation accuracy
 - **Grasp Visualization:** Shows the 3D suction patch selection process
 
-## 10. Contributing
-
-We welcome contributions to improve the package picking system:
-
-### Priority Areas
-- **Instance Segmentation:** Improve separation of overlapping packages
-- **Depth Quality:** Enhance MiDaS depth estimation accuracy
-- **Camera Calibration:** Automate pixel-to-millimeter ratio detection
